@@ -1,0 +1,38 @@
+.vermelho,
+.pequeno-vermelho{
+color: hsl(0, 100%, 50%)
+
+}
+.vermelho{
+font-size: 22px;
+
+}
+.pequeno-vermelho{
+
+font-size: 14px;
+}
+
+.confirm{
+
+    background-color: green;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.cancel{
+background-color: white;
+color: black;
+font-size: 22px;
+}
+
+div.text{
+    color: green;
+    font-size: 22px;
+}
+
+div.child{
+color: red;
+font-size: 14px;
+
+}
